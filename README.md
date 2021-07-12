@@ -7,8 +7,6 @@
 ![CMake](https://img.shields.io/badge/CMake-3c4149?style=for-the-badge&logo=CMake&logoColor=D76E00)
 ![Qt](https://img.shields.io/badge/Qt-3c4149?style=for-the-badge&logo=Qt&logoColor=green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3c4149?style=for-the-badge&logo=PostgreSQL&logoColor=F88C00)
-![Windows](https://img.shields.io/badge/Windows-3c4149?style=for-the-badge&logo=windows&logoColor=00a8e8)
-![Linux](https://img.shields.io/badge/Linux-3c4149?style=for-the-badge&logo=Linux&logoColor=321414)
 
 ### Follow Me:
 [![YouTube](https://img.shields.io/badge/-YouTube-3c4149?style=for-the-badge&logo=YouTube&logoColor=f70000)](https://www.youtube.com/c/Glebchansky)
