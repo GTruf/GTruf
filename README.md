@@ -16,5 +16,5 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-3c4149?style=for-the-badge&logo=instagram&logoColor=FF7F50)](https://www.instagram.com/glebchansky__)
 [![ВКонтакте](https://img.shields.io/badge/-ВКонтакте-3c4149?style=for-the-badge&logo=Vk&logoColor=4e7db2)](https://vk.com/glebchanskyy)
 
-[![GlebchanskyGit's github stats](https://github-readme-stats.vercel.app/api?username=GlebchanskyGit&show_icons=true&theme=material-palenight)](https://github.com/GlebchanskyGit)
-[![GlebchanskyGit's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GlebchanskyGit&layout=compact&theme=material-palenight)](https://github.com/GlebchanskyGit)
+[![GTruf's github stats](https://github-readme-stats.vercel.app/api?username=GTruf&show_icons=true&theme=material-palenight)](https://github.com/GTruf)
+[![GTruf's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GTruf&layout=compact&theme=material-palenight)](https://github.com/GTruf)
