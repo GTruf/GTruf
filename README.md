@@ -8,7 +8,6 @@
 ![Qt](https://img.shields.io/badge/Qt-3c4149?style=for-the-badge&logo=Qt&logoColor=green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3c4149?style=for-the-badge&logo=PostgreSQL&logoColor=F88C00)
 ![Python](https://img.shields.io/badge/Python-3c4149?style=for-the-badge&logo=Python)
-![Python](https://img.shields.io/badge/Jira-3c4149?style=for-the-badge&logo=Jira)
 
 ### Follow Me:
 [![YouTube](https://img.shields.io/badge/-YouTube-3c4149?style=for-the-badge&logo=YouTube&logoColor=f70000)](https://www.youtube.com/c/Glebchansky)
