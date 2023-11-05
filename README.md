@@ -11,7 +11,7 @@
 
 ### Follow Me:
 [![YouTube](https://img.shields.io/badge/-YouTube-3c4149?style=for-the-badge&logo=YouTube&logoColor=f70000)](https://www.youtube.com/c/Glebchansky)
-[![Telegram](https://img.shields.io/badge/-Telegram-3c4149?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/glebchanskyy)
+[![Telegram](https://img.shields.io/badge/-Telegram-3c4149?style=for-the-badge&logo=telegram)](https://t.me/glebchanskyy)
 [![Instagram](https://img.shields.io/badge/-Instagram-3c4149?style=for-the-badge&logo=instagram&logoColor=FF7F50)](https://www.instagram.com/glebchansky__)
 [![ВКонтакте](https://img.shields.io/badge/-ВКонтакте-3c4149?style=for-the-badge&logo=Vk&logoColor=4e7db2)](https://vk.com/glebchanskyy)
 
