@@ -1,6 +1,6 @@
 ## Hi there, I'm [Gleb!](https://www.instagram.com/glebchansky__) 👋
 
-- 💬 Ask me about anything [here](https://vk.com/glebchanskyy)
+- 💬 Ask me about anything [here](https://t.me/glebchanskyy)
 
 ### Languages and Tools:
 ![C++](https://img.shields.io/badge/C++-3c4149?style=for-the-badge&logo=C%2b%2b&logoColor=6295cb)
